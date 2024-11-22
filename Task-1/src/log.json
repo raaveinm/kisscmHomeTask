@@ -1,0 +1,60 @@
+[{
+  "output": "Command not found: >",
+  "command": "> Mitrix org.apache.commons:commons-lang3 2 https://search.maven.org/solrsearch/select?q=g:%s+AND+a:%s&rows=20&wt=json",
+  "timestamp": "2024-11-15T16:43:36.495311"
+}][
+  {
+    "output": "Command not found: >",
+    "command": "> Mitrix org.apache.commons:commons-lang3 2 https://search.maven.org/solrsearch/select?q=g:%s+AND+a:%s&rows=20&wt=json",
+    "timestamp": "2024-11-15T16:43:36.495311"
+  },
+  {
+    "output": "Error generating dependency graph: null",
+    "command": "Mitrix com.google.guava:guava 1 https://your-custom-maven-repo/solrsearch/select?q=g:%s+AND+a:%s&rows=20&wt=json",
+    "timestamp": "2024-11-16T13:22:14.311692"
+  }
+][
+  {
+    "output": "Command not found: >",
+    "command": "> Mitrix org.apache.commons:commons-lang3 2 https://search.maven.org/solrsearch/select?q=g:%s+AND+a:%s&rows=20&wt=json",
+    "timestamp": "2024-11-15T16:43:36.495311"
+  },
+  {
+    "output": "Usage: Mitrix <package_name> <max_depth> <repository_url>",
+    "command": "Mitrix com.google.guava:guava 1",
+    "timestamp": "2024-11-16T13:26:19.37722"
+  }
+][
+  {
+    "output": "Command not found: >",
+    "command": "> Mitrix org.apache.commons:commons-lang3 2 https://search.maven.org/solrsearch/select?q=g:%s+AND+a:%s&rows=20&wt=json",
+    "timestamp": "2024-11-15T16:43:36.495311"
+  },
+  {
+    "output": "Error generating dependency graph: null",
+    "command": "Mitrix com.google.guava:guava 1 https://your-custom-maven-repo/solrsearch/select?q=g:%s+AND+a:%s&rows=20&wt=json",
+    "timestamp": "2024-11-16T13:28:11.517606"
+  }
+][
+  {
+    "output": "Command not found: >",
+    "command": "> Mitrix org.apache.commons:commons-lang3 2 https://search.maven.org/solrsearch/select?q=g:%s+AND+a:%s&rows=20&wt=json",
+    "timestamp": "2024-11-15T16:43:36.495311"
+  },
+  {
+    "output": "Error generating dependency graph: null",
+    "command": "Mitrix com.google.guava:guava 1 https://your-custom-maven-repo/solrsearch/select?q=g:%s+AND+a:%s&rows=20&wt=json",
+    "timestamp": "2024-11-16T13:38:30.605531"
+  }
+][
+  {
+    "output": "Command not found: >",
+    "command": "> Mitrix org.apache.commons:commons-lang3 2 https://search.maven.org/solrsearch/select?q=g:%s+AND+a:%s&rows=20&wt=json",
+    "timestamp": "2024-11-15T16:43:36.495311"
+  },
+  {
+    "output": "Error generating dependency graph: null",
+    "command": "Mitrix com.google.guava:guava 1 https://my-company-maven-repo.com/repository/releases",
+    "timestamp": "2024-11-16T13:41:21.553702"
+  }
+]
